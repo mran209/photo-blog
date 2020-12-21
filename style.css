@@ -1,0 +1,15 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;  /* Each photo has a margin (left and right) so a total of 6 margins in 1 row
+					   and divide width of photos (or 10 in this case) by margins*/
+}
+
+h1 {
+	font-family: Raleway;
+	margin-left: 1.66%;
+	text-transform: uppercase;
+	border-bottom: 2px solid #5C676C;
+	width: 30%;
+	padding-bottom: 20px;
+}
